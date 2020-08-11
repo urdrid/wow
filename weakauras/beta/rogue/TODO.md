@@ -1,7 +1,7 @@
 # TODO
 
-* Add Kick
-* Refactor into one group
+* ~~Add Kick~~
+* ~~Refactor into one group~~
 * Give "subgroup" positioning capability to the WAs
     - Offensive/spec-specific
     - Defensive
