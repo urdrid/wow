@@ -70,11 +70,12 @@
 ## Leveling Plan
 
 * Replacing Azerite
-    - Take chest reward when offered
-    - Take shoulder reward when offered
-    - Helm rewards are more common
+    * Take chest reward when offered
+    * Take shoulder reward when offered
+    * Helm rewards are more common
 * Weapons seem scarce
 * Make sure you have legendary cloak as cloak rewards don't happen in first zone
+* Macro pickpocket into abilities while leveling - rewarding 3-6g per mob
 
 ### Bastion
 
@@ -83,4 +84,4 @@
 
 ### Maldraxxus
 
-* TBD
+* Finally get shoulders in this zone
