@@ -94,4 +94,8 @@
 
 ### Revendreth
 
-* TBD
+* Should get the treasures while in the zone for the first time
+
+## General notes
+
+* 
