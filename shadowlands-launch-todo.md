@@ -85,3 +85,7 @@
 ### Maldraxxus
 
 * Finally get shoulders in this zone
+
+### Ardenweald
+
+* Big chestpiece reward in the first third of the zone
