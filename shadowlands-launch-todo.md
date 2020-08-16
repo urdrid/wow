@@ -22,13 +22,13 @@
 
 * It remains as a high iLvl piece of gear
 * Retains three secondary stats
-* Excellent item budget all the way through Shadowlands
+* Excellent item budget all the way through in Shadowlands (At 59, still much better than rewards)
 
 ### What happens to the cloak
 
 * It remains as a high iLvl piece of gear
 * Retains three secondary stats
-* Excellent item budget all the way through Shadowlands
+* Excellent item budget all the way through to about 58 in Shadowlands
 
 ### What happens to corruption
 
@@ -80,12 +80,18 @@
 ### Bastion
 
 * Instance at the end is not required to move to the next zone
-* TBD
+* Should be able to get Loremaster without much deviation, with few side quests
 
 ### Maldraxxus
 
-* Finally get shoulders in this zone
+* Quite a few skippable side quests
+* Should be able to get Loremaster without much deviation, with few side quests
 
 ### Ardenweald
 
-* Big chestpiece reward in the first third of the zone
+* Quite a few skippable side quests
+* Requires deviation from mission quests to get Loremaster
+
+### Revendreth
+
+* TBD
